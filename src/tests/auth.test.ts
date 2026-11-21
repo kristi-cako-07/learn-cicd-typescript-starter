@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import {getAPIkey} from "../api/auth";
+import { getAPIkey } from "../api/auth";
 
 const person = {
   isActive: true,
